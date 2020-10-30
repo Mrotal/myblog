@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e634e8c4-fe52-46e0-a598-136da3e8b897" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\86135\.m2\wrapper\dists\apache-maven-3.6.3-bin\1iopthnavndlasol9gbrbg6bf2\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="A:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jBxdxcG4sBUx6SK2s9Okb6bTCx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/myblog" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="IntelliLang.Configuration" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.hacker9527.myblog" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.hacker9527.myblog.shrio.Realm" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\86135\Desktop\JavaEE\myblog\src\main\resources\mapper" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.MyblogApplication">
+    <configuration name="TestRedis.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myblog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hacker9527.myblog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hacker9527.myblog" />
+      <option name="MAIN_CLASS_NAME" value="com.hacker9527.myblog.TestRedis" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestRedis.testObj" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="myblog" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hacker9527.myblog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.hacker9527.myblog" />
+      <option name="MAIN_CLASS_NAME" value="com.hacker9527.myblog.TestRedis" />
+      <option name="METHOD_NAME" value="testObj" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyblogApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="myblog" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.hacker9527.myblog.MyblogApplication" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.TestRedis.test" />
+      <item itemvalue="JUnit.TestRedis.testObj" />
+      <item itemvalue="Spring Boot.MyblogApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestRedis.test" />
+        <item itemvalue="JUnit.TestRedis.testObj" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e634e8c4-fe52-46e0-a598-136da3e8b897" name="Default Changelist" comment="" />
+      <created>1603291376840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603291376840</updated>
+      <workItem from="1603291387678" duration="1115000" />
+      <workItem from="1603329263581" duration="8685000" />
+      <workItem from="1603367429560" duration="5522000" />
+      <workItem from="1603373337366" duration="4730000" />
+      <workItem from="1603421543644" duration="1418000" />
+      <workItem from="1603455667695" duration="1425000" />
+      <workItem from="1603547076743" duration="297000" />
+      <workItem from="1603725431903" duration="726000" />
+      <workItem from="1603726190081" duration="15000" />
+      <workItem from="1603726226107" duration="255000" />
+      <workItem from="1603726536247" duration="111000" />
+      <workItem from="1603726662466" duration="40000" />
+      <workItem from="1603726726251" duration="192000" />
+      <workItem from="1603726933117" duration="51000" />
+      <workItem from="1603726998890" duration="107000" />
+      <workItem from="1603727117068" duration="54000" />
+      <workItem from="1603727182776" duration="78000" />
+      <workItem from="1603727393235" duration="27000" />
+      <workItem from="1603728405857" duration="1025000" />
+      <workItem from="1603729805114" duration="100000" />
+      <workItem from="1603730001954" duration="64000" />
+      <workItem from="1603730133431" duration="361000" />
+      <workItem from="1603730629444" duration="91000" />
+      <workItem from="1603730811426" duration="112000" />
+      <workItem from="1603730978262" duration="30000" />
+      <workItem from="1603731087979" duration="19000" />
+      <workItem from="1603731628056" duration="441000" />
+      <workItem from="1603732603134" duration="12000" />
+      <workItem from="1603732679665" duration="273000" />
+      <workItem from="1603732979136" duration="1000" />
+      <workItem from="1603733023110" duration="259000" />
+      <workItem from="1603733300836" duration="92000" />
+      <workItem from="1603733531834" duration="314000" />
+      <workItem from="1603757456016" duration="12000" />
+      <workItem from="1603757531258" duration="1741000" />
+      <workItem from="1603774401540" duration="68000" />
+      <workItem from="1603774487241" duration="34000" />
+      <workItem from="1603774535508" duration="24000" />
+      <workItem from="1603774574474" duration="3458000" />
+      <workItem from="1603778769503" duration="1573000" />
+      <workItem from="1603801441280" duration="635000" />
+      <workItem from="1603856589558" duration="14432000" />
+      <workItem from="1604040202900" duration="124000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="832" y="418" key="#Custom_Plugin_Repositories" timestamp="1603725658611">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="832" y="418" key="#Custom_Plugin_Repositories/0.0.1920.1040@0.0.1920.1040" timestamp="1603725658611" />
+    <state x="478" y="342" key="#Notifications" timestamp="1603774497974">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="478" y="342" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1603774497974" />
+    <state x="336" y="160" key="#Plugins" timestamp="1603728798289">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="336" y="160" key="#Plugins/0.0.1920.1040@0.0.1920.1040" timestamp="1603728798289" />
+    <state x="552" y="178" width="1186" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603899517326">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" width="1186" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603899517326" />
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser" timestamp="1603900066540">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="235" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1603900066540" />
+    <state x="690" y="295" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1603899743736">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="295" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603899743736" />
+    <state x="579" y="197" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1603349601147">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="579" y="197" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603349601147" />
+    <state x="424" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1603727406596">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="424" y="254" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603727406596" />
+    <state x="569" y="442" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1603329326118">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="569" y="442" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603329326118" />
+    <state x="739" y="399" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1603329335226">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="399" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1920.1040@0.0.1920.1040" timestamp="1603329335226" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603900598669">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603900598669" />
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1604040325832">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604040325832" />
+    <state width="1877" height="299" key="GridCell.Tab.0.bottom" timestamp="1603901466836">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="299" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603901466836" />
+    <state width="1877" height="299" key="GridCell.Tab.0.center" timestamp="1603901466836">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="299" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603901466836" />
+    <state width="1877" height="299" key="GridCell.Tab.0.left" timestamp="1603901466836">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="299" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603901466836" />
+    <state width="1877" height="299" key="GridCell.Tab.0.right" timestamp="1603901466836">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="299" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603901466836" />
+    <state width="1877" height="299" key="GridCell.Tab.1.bottom" timestamp="1603901466836">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="299" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603901466836" />
+    <state width="1877" height="299" key="GridCell.Tab.1.center" timestamp="1603901466836">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="299" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603901466836" />
+    <state width="1877" height="299" key="GridCell.Tab.1.left" timestamp="1603901466836">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="299" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603901466836" />
+    <state width="1877" height="299" key="GridCell.Tab.1.right" timestamp="1603901466836">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="299" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603901466836" />
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog" timestamp="1603421596192">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="174" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603421596192" />
+    <state x="171" y="182" key="SettingsEditor" timestamp="1603901106951">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="171" y="182" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603901106951" />
+    <state x="485" y="255" width="950" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1603863969631">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="485" y="255" width="950" height="642" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1603863969631" />
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1" timestamp="1603343769804">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="dock-window-1/0.0.1920.1040@0.0.1920.1040" timestamp="1603343769804" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1603343726854">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603343726854" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
