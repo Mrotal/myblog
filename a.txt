@@ -2,5 +2,4 @@ asd
 I love you
 asdas 
 woshishui
-testtest
 bug测试
